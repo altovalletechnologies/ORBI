@@ -1,14 +1,14 @@
 # ORBI
 
-![ORBI, el asistente personal de bolsillo de Alto Valle Technologies, sobre un cuaderno de bocetos](media/portada.jpg)
-
-*Visualización del prototipo. En la bitácora contamos qué pudimos comprobar con el aparato físico.*
+![ORBI abre los ojos y escucha. Cuaderno del prototipo de Alto Valle Technologies.](media/orbi-en-escucha.gif)
 
 **ORBI es un asistente de voz que se usa desde la palma de la mano.** Mantenés presionada la pantalla o el botón superior, hacés una pregunta y soltás. La respuesta sale por el parlante del propio ORBI. Lo desarrollamos en Alto Valle Technologies, en la Patagonia argentina.
 
 [Ver el sitio de ORBI](https://orbiconnect.app/) · [Leer la bitácora](BITACORA.md) · [Conocer Alto Valle Technologies](https://altovalletechnologies.com/)
 
 ## Qué pasa cuando hablás
+
+![Animación del recorrido de ida y vuelta entre ORBI, Android y Hermes. La tabla describe cada paso.](media/recorrido-de-voz.gif)
 
 | Momento | Qué hace ORBI |
 | --- | --- |
@@ -19,6 +19,8 @@
 El teléfono cumple dos funciones distintas. Procesa la voz localmente y aporta la conexión a internet para consultar al asistente. Las pruebas del recorrido completo se hicieron con ORBI Connect abierta.
 
 ## El aparato, de cerca
+
+![Visualización conceptual del dispositivo ORBI sobre un cuaderno](media/portada.jpg)
 
 El prototipo usa una **ESP32-S3 Touch AMOLED de 1,75 pulgadas**, con pantalla circular, micrófono y parlante. Los ojos en pantalla forman parte de la interfaz. Al preparar la voz y establecer el enlace, se abren.
 

@@ -1,5 +1,7 @@
 # Bitácora del prototipo
 
+![Bitácora de pruebas de ORBI](media/bitacora.png)
+
 **Corte del 23 de noviembre de 2026** · [Volver a ORBI](README.md)
 
 ## Lo que pasó en el aparato
