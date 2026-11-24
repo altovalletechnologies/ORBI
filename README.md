@@ -6,6 +6,12 @@
 
 [Ver el sitio de ORBI](https://orbiconnect.app/) · [Leer la bitácora](BITACORA.md) · [Conocer Alto Valle Technologies](https://altovalletechnologies.com/)
 
+## ORBI en Somos el Valle
+
+En la cobertura de la Expo del CET N.º 1 de General Roca, Sebastián Bagli Barrera conversó con Somos el Valle sobre ORBI, el asistente de bolsillo que se vincula con el teléfono.
+
+[Ver la entrevista en Instagram](https://www.instagram.com/reel/Df71eTWNeSX/)
+
 ## Qué pasa cuando hablás
 
 ![Animación del recorrido de ida y vuelta entre ORBI, Android y Hermes. La tabla describe cada paso.](media/recorrido-de-voz.gif)
